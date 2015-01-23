@@ -919,8 +919,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>73.34954833984375</real>
-									<real>102.07340240478516</real>
+									<real>71.221794128417969</real>
+									<real>101</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -958,7 +958,7 @@
 								<key>type</key>
 								<string>Degrees</string>
 								<key>value</key>
-								<real>5.209418773651123</real>
+								<real>0.0</real>
 							</dict>
 							<dict>
 								<key>name</key>
@@ -1301,8 +1301,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>27.308334350585938</real>
-									<real>92.826568603515625</real>
+									<real>28.841835021972656</real>
+									<real>93.341178894042969</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1340,7 +1340,7 @@
 								<key>type</key>
 								<string>Degrees</string>
 								<key>value</key>
-								<real>-2.6963412761688232</real>
+								<real>0.0</real>
 							</dict>
 							<dict>
 								<key>name</key>
@@ -1653,8 +1653,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>48.8974609375</real>
-									<real>97.764617919921875</real>
+									<real>48</real>
+									<real>101</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1692,7 +1692,7 @@
 								<key>type</key>
 								<string>Degrees</string>
 								<key>value</key>
-								<real>-1.6442686319351196</real>
+								<real>0.31346127390861511</real>
 							</dict>
 							<dict>
 								<key>name</key>
@@ -1797,8 +1797,8 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>1.0406736135482788</real>
-							<real>1.0340059995651245</real>
+							<real>1.0151478052139282</real>
+							<real>1.0169689655303955</real>
 							<false/>
 							<integer>0</integer>
 						</array>
@@ -1976,7 +1976,7 @@
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
-			<real>1.7333333492279053</real>
+			<real>0.0</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
